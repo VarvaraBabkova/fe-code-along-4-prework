@@ -77,6 +77,14 @@ img, video, audio {
   max-height: 100%;
 }
 /*LAYOUT*/
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+  z-index: 1;
+}
 *{
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
